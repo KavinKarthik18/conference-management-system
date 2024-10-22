@@ -175,10 +175,3 @@ Contributions to the Conference Management System are welcome and appreciated. T
 5. Submit a pull request with a detailed description of your changes.
 
 Please ensure that your code follows the project's coding standards and includes appropriate tests.
-
-## Contact
-
-For any questions or inquiries, please contact the project maintainers:
-
-- **Project Lead**: Görkem Turkut (gorkemturkut@hotmail.com)
-- [My GitHub Profile](https://github.com/gorkemturkut57)
